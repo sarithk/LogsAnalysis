@@ -12,7 +12,7 @@ newsdata.sql - File used to create tables and populate them with data.
 
 
 ### Installation
-1. Install [Python](https://www.python.org )<br/
+1. Install [Python](https://www.python.org )<br/>
 
 2. **Create the news database** <Br/>
 This project makes use of Linux-based virtual machine (VM). This will give you the PostgreSQL database and support software needed for this project.  Install the virtual machine.  We're using tools called Vagrant and VirtualBox to install and manage the VM
